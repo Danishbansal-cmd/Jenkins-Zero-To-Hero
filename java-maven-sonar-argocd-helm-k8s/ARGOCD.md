@@ -1,5 +1,6 @@
 [For the ARGO CD](https://www.youtube.com/watch?v=ZgJQG475oME&t=981s)
-Watch this tutorial for full reference
+Watch this tutorial for full reference\
+[ArgoCD documentation](https://argo-cd.readthedocs.io/en/stable/getting_started/)
 
 Install the ARGO CD in different namespace\ 
 it is always suggested, whenever one needs to install the kubernetes controller, create the different namespace\
